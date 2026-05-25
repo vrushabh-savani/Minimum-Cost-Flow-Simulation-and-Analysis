@@ -1,4 +1,4 @@
-# Minimum-Cost Flow Algorithms Project
+# Minimum-Cost Flow Algorithms
 
 ## Department of Computer Science and Software Engineering  
 **Concordia University**  

@@ -1,10 +1,5 @@
 # Minimum-Cost Flow Algorithms
 
-## Department of Computer Science and Software Engineering  
-**Concordia University**  
-**COMP 6651 Algorithm Design Techniques**  
-**Fall 2024**
-
 ### Project Description
 
 This project aims to solve the minimum-cost flow problem in directed graphs, extending the Ford-Fulkerson algorithm to include cost considerations for each unit of flow. The project involves implementing and analyzing various adaptations of the Ford-Fulkerson algorithm, including:
@@ -43,11 +38,4 @@ The goal is to send a given flow between a source and sink while minimizing the 
     python main.py
     ```
 
-### Contributors
-
-- Vrushabh Savani (SID: 40291740)
-- Fatema Gajipurwala (SID: 40269575)
-- Sahil Khunt (SID: 40279373)
-- Khushi Parikh (SID: 40292715)
-- Vishwas Tomar (SID: 40254026)
 
